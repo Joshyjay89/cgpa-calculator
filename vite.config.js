@@ -9,8 +9,8 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["favicon.svg", "icon-192.png", "icon-512.png"],
       manifest: {
-        name: "The Ledger — GPA & CGPA Tracker",
-        short_name: "The Ledger",
+        name: "JAY CGPA AND GPA CALCULATOR",
+        short_name: "Jay",
         description: "A running record of your GPA and CGPA, with degree classification, analytics, and transcript export.",
         theme_color: "#0F1826",
         background_color: "#0F1826",
